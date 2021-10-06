@@ -1,4 +1,4 @@
-# Robot Vision 2020 用のレポジトリ  
+# Robot Vision 2021 用のレポジトリ  
 
 授業スライドは以下のGoogleスライド参照
 
