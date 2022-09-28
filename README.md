@@ -1,7 +1,7 @@
-# Robot Vision 2021 用のレポジトリ  
+# Robot Vision 2022 用のレポジトリ  
 
 授業スライドは以下のGoogleスライド参照
 
-- [1週目スライド](https://docs.google.com/presentation/d/1DMX32cy8TM7bT9Ic2GNsLi9uxux0v-eEf60P3FRw_Rw/edit?usp=sharing)
-- [2週目スライド](https://docs.google.com/presentation/d/1uOCjVtfs7Hv_iWYK4dtMjFDiimgiLhmZXueyiGmzwR8/edit?usp=sharing)
-- [3週目スライド](https://docs.google.com/presentation/d/1e8KS7BDwGlt5gp8_AD0CVpbDFm5_SBCtz0WO-y1c3Uw/edit?usp=sharing)
+- [1週目スライド](https://docs.google.com/presentation/d/1kwZDlCVLOGyj9AHAA2AQNve19Z_pT5svijrke_h1spY/edit?usp=sharing){:target="_blank"}
+- [2週目スライド](https://docs.google.com/presentation/d/1vcs6WNnSzMhJlBsFRpjP97G047owoQJCMYVT4vXnLeo/edit?usp=sharing){:target="_blank"}
+- [3週目スライド](https://docs.google.com/presentation/d/1oHPb9HD59gmt5VauOTMjExFefIUMVyLe6qjiQ5UAKNo/edit?usp=sharing){:target="_blank"}
